@@ -1,0 +1,1233 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ianma/Desktop/College/Fa20/CS147/prj_02
+vALU
+!s110 1606026998
+!i10b 1
+!s100 >i>EDb_RdAF4M7WFSL?o_3
+I6N79l:zDmXE59Fhe2ELTO3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03
+w1606026986
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/alu.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/alu.v
+Z2 L0 23
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1606026998.000000
+!s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/alu.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+valu_tb
+!s110 1605686439
+!i10b 1
+!s100 f@mMzne2Pk]L4mZ;RJL8_1
+IoH^=PRGXZa_]BDXB?e[ac1
+R0
+R1
+w1605686427
+Z5 8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/alu_tb.v
+Z6 FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/alu_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1605686439.000000
+!s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/alu_tb.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/alu_tb.v|
+!s101 -O0
+!i113 1
+R4
+vALU_TB
+Z8 !s110 1606024803
+!i10b 1
+!s100 aBkN9SGLGOI]]ekR^c3Y81
+IgAWW[T8bzQB[5=k;]J?n_1
+R0
+R1
+w1603158264
+R5
+R6
+L0 2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1606024803.000000
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/alu_tb.v|
+R7
+!s101 -O0
+!i113 1
+R4
+n@a@l@u_@t@b
+vAND32_2x1
+Z10 !s110 1606024801
+!i10b 1
+!s100 Rbc`GNi=c1AG`2SBAW>7g3
+Imog6JbEO36N_1M7D7`CC>0
+R0
+R1
+Z11 w1605648764
+Z12 8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_32_bit.v
+Z13 FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_32_bit.v
+L0 35
+R3
+r1
+!s85 0
+31
+Z14 !s108 1606024801.000000
+Z15 !s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_32_bit.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_32_bit.v|
+!s101 -O0
+!i113 1
+R4
+n@a@n@d32_2x1
+vBARREL_SHIFTER32
+Z17 !s110 1606024798
+!i10b 1
+!s100 @=A[m[UhEMXUVmZDXhNHi0
+I7DeJbPj[e`Tc;eeNlBL2E0
+R0
+R1
+Z18 w1605682014
+Z19 8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/barrel_shifter.v
+Z20 FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/barrel_shifter.v
+L0 34
+R3
+r1
+!s85 0
+31
+Z21 !s108 1606024798.000000
+Z22 !s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/barrel_shifter.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/barrel_shifter.v|
+!s101 -O0
+!i113 1
+R4
+n@b@a@r@r@e@l_@s@h@i@f@t@e@r32
+vbarrel_shifter_tb
+R8
+!i10b 1
+!s100 [i>O8Q:SV?WUo:_OzbTZ?3
+I=?1Bhkfe_70XPPjINcCCV1
+R0
+R1
+w1605674164
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/barrel_shifter_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/barrel_shifter_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/barrel_shifter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/barrel_shifter_tb.v|
+!s101 -O0
+!i113 1
+R4
+vCLK_GENERATOR
+R17
+!i10b 1
+!s100 I`I=T4aaeE09lSRDFRN971
+Icm]053lUj2J?bAWmFUMQf2
+R0
+R1
+Z24 w1422689906
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/clk_gen.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/clk_gen.v
+Z25 L0 16
+R3
+r1
+!s85 0
+31
+R21
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/clk_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/clk_gen.v|
+!s101 -O0
+!i113 1
+R4
+n@c@l@k_@g@e@n@e@r@a@t@o@r
+vCONTROL_UNIT
+Z26 !s110 1606033927
+!i10b 1
+!s100 CEf;2L^3ORJkma@neG]V>3
+Ih0z0dA_ez2E;hJ7fH8O_@3
+R0
+R1
+Z27 w1606033857
+Z28 8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/control_unit.v
+Z29 FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/control_unit.v
+Z30 L0 21
+R3
+r1
+!s85 0
+31
+Z31 !s108 1606033927.000000
+Z32 !s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/control_unit.v|
+Z33 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/control_unit.v|
+!s101 -O0
+!i113 1
+R4
+n@c@o@n@t@r@o@l_@u@n@i@t
+vD_FF
+Z34 !s110 1606033429
+!i10b 1
+!s100 nQ9Zam4iG?lRcWi5S37QR2
+I=Lj9P^Pck[=5Zc<o?URnm0
+R0
+R1
+Z35 w1606033261
+Z36 8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic.v
+Z37 FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic.v
+Z38 L0 167
+R3
+r1
+!s85 0
+31
+Z39 !s108 1606033429.000000
+Z40 !s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic.v|
+Z41 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic.v|
+!s101 -O0
+!i113 1
+R4
+n@d_@f@f
+vD_LATCH
+R34
+!i10b 1
+!s100 cdka?SSAU[iSIfN=JT:>Y3
+Ig[IaE[oDBfeJXc8g[56Hm1
+R0
+R1
+R35
+R36
+R37
+L0 184
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@d_@l@a@t@c@h
+vDA_VINCI
+!s110 1606033732
+!i10b 1
+!s100 daaTE@@o84`W9_S4X0zN70
+IQZz;>M6RWi1e@2ck3M]Pz1
+R0
+R1
+w1606033728
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/da_vinci.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/da_vinci.v
+Z42 L0 24
+R3
+r1
+!s85 0
+31
+!s108 1606033732.000000
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/da_vinci.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/da_vinci.v|
+!s101 -O0
+!i113 1
+R4
+n@d@a_@v@i@n@c@i
+vDA_VINCI_TB
+Z43 !s110 1606024799
+!i10b 1
+!s100 EDhRnJ=27dG@6R3=CZMG53
+I[Dd6=4KdB5NHUDXbi1D>@3
+R0
+R1
+R24
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/da_vinci_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/da_vinci_tb.v
+R42
+R3
+r1
+!s85 0
+31
+Z44 !s108 1606024799.000000
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/da_vinci_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/da_vinci_tb.v|
+!s101 -O0
+!i113 1
+R4
+n@d@a_@v@i@n@c@i_@t@b
+vDATA_PATH
+R26
+!i10b 1
+!s100 cX>IW`JAQI:hd9FATi`]E1
+IYELZTRCammeb;QcfJN;O83
+R0
+R1
+w1606033921
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/data_path.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/data_path.v
+L0 20
+R3
+r1
+!s85 0
+31
+R31
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/data_path.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/data_path.v|
+!s101 -O0
+!i113 1
+R4
+n@d@a@t@a_@p@a@t@h
+vDECODER_2x4
+R34
+!i10b 1
+!s100 AfWbNVn[IFFQB?nJRTW;T0
+IIU8ON8;=`AbT=]3^<oGV;0
+R0
+R1
+R35
+R36
+R37
+L0 313
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@d@e@c@o@d@e@r_2x4
+vDECODER_3x8
+R34
+!i10b 1
+!s100 =QH>k=7MlPRaK@d5A5ilM1
+IYSf6zMJ?kIa6:7;g6l9zl0
+R0
+R1
+R35
+R36
+R37
+L0 291
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@d@e@c@o@d@e@r_3x8
+vDECODER_4x16
+R34
+!i10b 1
+!s100 hNk33n9?adczzD>GQ;TdG2
+IjkY<HU@C3UCOM2Z6ooAY62
+R0
+R1
+R35
+R36
+R37
+L0 261
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@d@e@c@o@d@e@r_4x16
+vDECODER_5x32
+R34
+!i10b 1
+!s100 NYm<SM^8W`Xk^fUOPE0n82
+IC;H6c`D=b61MZgm6<2GJ@1
+R0
+R1
+R35
+R36
+R37
+L0 215
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@d@e@c@o@d@e@r_5x32
+vFULL_ADDER
+R43
+!i10b 1
+!s100 ANXROUOkb5ZXEo04C78`@0
+IQ<=zTV>LgG8VXKDka>g@l3
+R0
+R1
+w1605513714
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/full_adder.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/full_adder.v
+Z45 L0 22
+R3
+r1
+!s85 0
+31
+R44
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/full_adder.v|
+!s101 -O0
+!i113 1
+R4
+n@f@u@l@l_@a@d@d@e@r
+vfull_adder_tb
+Z46 !s110 1606024802
+!i10b 1
+!s100 N[MTKJjPRekT`lbzN_:3H3
+IA=?YYaG8d;N>L[Y9STWnK2
+R0
+R1
+w1605513813
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/full_adder_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/full_adder_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z47 !s108 1606024802.000000
+!s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/full_adder_tb.v|
+!s101 -O0
+!i113 1
+R4
+vHALF_ADDER
+!s110 1606024800
+!i10b 1
+!s100 `fD87NAi3c8HN]cD;a1PC3
+I2;PS_>4]W4Xjc14GXk:I`3
+R0
+R1
+w1605512164
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/half_adder.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/half_adder.v
+R30
+R3
+r1
+!s85 0
+31
+!s108 1606024800.000000
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/half_adder.v|
+!s101 -O0
+!i113 1
+R4
+n@h@a@l@f_@a@d@d@e@r
+vhalf_adder_tb
+R46
+!i10b 1
+!s100 :B8_mk;K94=kE34ki8zWf1
+I7]a@=ncKOT^M]mNSIa^g_0
+R0
+R1
+w1605512875
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/half_adder_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/half_adder_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R47
+!s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/half_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/half_adder_tb.v|
+!s101 -O0
+!i113 1
+R4
+vINV32_1x1
+R10
+!i10b 1
+!s100 `glkg75P=^XT2ID4V01X>0
+IcfkI6IPcB@7R?ZjT9e>zh1
+R0
+R1
+R11
+R12
+R13
+L0 53
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!s101 -O0
+!i113 1
+R4
+n@i@n@v32_1x1
+vlogic_32_bit_tb
+R8
+!i10b 1
+!s100 9iPNV`YBnHk>zbSk<[_M`0
+I8L_hFd8mnK3CaNlCL>W]C3
+R0
+R1
+w1605654278
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_32_bit_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_32_bit_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_32_bit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_32_bit_tb.v|
+!s101 -O0
+!i113 1
+R4
+vlogic_tb
+R8
+!i10b 1
+!s100 _HK89cmUYJJaFQba`ZJf83
+IgOizHd<QmddRD0>=gi3i70
+R0
+R1
+w1606008433
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/logic_tb.v|
+!s101 -O0
+!i113 1
+R4
+vMEM_64MB_TB
+R10
+!i10b 1
+!s100 Q0bd^kgMCaH`JYm[fkQkH3
+I==BXT9J8TY2IJP^o[XK?U3
+R0
+R1
+R24
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mem_64MB_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mem_64MB_tb.v
+R2
+R3
+r1
+!s85 0
+31
+R14
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mem_64MB_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mem_64MB_tb.v|
+!s101 -O0
+!i113 1
+R4
+n@m@e@m_64@m@b_@t@b
+vMEMORY_64MB
+R10
+!i10b 1
+!s100 [HnJUC8QNEk>j6FK_9bcB3
+IzZLE=LNP4G<W^_:F;C74_1
+R0
+R1
+R24
+Z48 8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/memory.v
+Z49 FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/memory.v
+L0 66
+R3
+r1
+!s85 0
+31
+R14
+Z50 !s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/memory.v|
+Z51 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/memory.v|
+!s101 -O0
+!i113 1
+R4
+n@m@e@m@o@r@y_64@m@b
+vMEMORY_WRAPPER
+R10
+!i10b 1
+!s100 JbW=66C9AYZiFCAKCdPGk2
+IM8ABg54kn5C?3LNQbKD@N3
+R0
+R1
+R24
+R48
+R49
+L0 26
+R3
+r1
+!s85 0
+31
+R14
+R50
+R51
+!s101 -O0
+!i113 1
+R4
+n@m@e@m@o@r@y_@w@r@a@p@p@e@r
+vMULT32
+R10
+!i10b 1
+!s100 >A65d;:Uf>6IYcJUmG`4P2
+ID3fd0nWXJ6^4UG_C6iVo^1
+R0
+R1
+Z52 w1605683093
+Z53 8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mult.v
+Z54 FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mult.v
+R45
+R3
+r1
+!s85 0
+31
+R14
+Z55 !s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mult.v|
+Z56 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mult.v|
+!s101 -O0
+!i113 1
+R4
+n@m@u@l@t32
+vMULT32_U
+R10
+!i10b 1
+!s100 G>^@jFCJal8l3RPXFVnM;3
+IInP27zhBjISF1fSlbUVXg2
+R0
+R1
+R52
+R53
+R54
+L0 48
+R3
+r1
+!s85 0
+31
+R14
+R55
+R56
+!s101 -O0
+!i113 1
+R4
+n@m@u@l@t32_@u
+vmult_tb
+R8
+!i10b 1
+!s100 1OHGIAzcIcZb@X1[oa3331
+I^n06M36A7m6fUT]Y?2T<m1
+R0
+R1
+w1605662985
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mult_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mult_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mult_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mult_tb.v|
+!s101 -O0
+!i113 1
+R4
+vMUX1_2x1
+R10
+!i10b 1
+!s100 z5F^aZNi@PoK6jhSn74h91
+Ik7kGjbOKz5Y5Ud^Q@jk0[2
+R0
+R1
+Z57 w1605748818
+Z58 8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mux.v
+Z59 FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mux.v
+L0 133
+R3
+r1
+!s85 0
+31
+R14
+Z60 !s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mux.v|
+Z61 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mux.v|
+!s101 -O0
+!i113 1
+R4
+n@m@u@x1_2x1
+vMUX32_16x1
+R10
+!i10b 1
+!s100 idP2cPn1jk@?kL?@X:kTM0
+I2X4U1l3i7UfB7YUa99l6B3
+R0
+R1
+R57
+R58
+R59
+L0 39
+R3
+r1
+!s85 0
+31
+R14
+R60
+R61
+!s101 -O0
+!i113 1
+R4
+n@m@u@x32_16x1
+vMUX32_2x1
+R10
+!i10b 1
+!s100 ^zCV0iBV0K_GbmRZB;g:f0
+I;<Fha^SS_Fd_@RTLfDM2;3
+R0
+R1
+R57
+R58
+R59
+L0 114
+R3
+r1
+!s85 0
+31
+R14
+R60
+R61
+!s101 -O0
+!i113 1
+R4
+n@m@u@x32_2x1
+vMUX32_32x1
+R10
+!i10b 1
+!s100 RCdSNThFo[_eJ:;b5HeLb0
+IFEf8E9F7^Z@R02SW=dNDY0
+R0
+R1
+R57
+R58
+R59
+Z62 L0 17
+R3
+r1
+!s85 0
+31
+R14
+R60
+R61
+!s101 -O0
+!i113 1
+R4
+n@m@u@x32_32x1
+vMUX32_4x1
+R10
+!i10b 1
+!s100 PImz;iX9[0i@MGk<VCG0B3
+IPAO=lbe0S]VIKoEYZm8aJ3
+R0
+R1
+R57
+R58
+R59
+L0 95
+R3
+r1
+!s85 0
+31
+R14
+R60
+R61
+!s101 -O0
+!i113 1
+R4
+n@m@u@x32_4x1
+vMUX32_8x1
+R10
+!i10b 1
+!s100 Whc>V^R]WKT^D08i>c;;`0
+I1Id@Lal^=EzaXNi?;_kQN1
+R0
+R1
+R57
+R58
+R59
+L0 71
+R3
+r1
+!s85 0
+31
+R14
+R60
+R61
+!s101 -O0
+!i113 1
+R4
+n@m@u@x32_8x1
+vmux_tb
+R8
+!i10b 1
+!s100 E@eTIU`oc:QHlOT1aQ4:U2
+I81d9SP=Ycof9lzV3K8?CA1
+R0
+R1
+w1605685412
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mux_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mux_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/mux_tb.v|
+!s101 -O0
+!i113 1
+R4
+vNOR32_2x1
+R10
+!i10b 1
+!s100 ;_b4mFTdWEDfNkUahhl]O0
+IG@8gD5f]S8IS]FZoP]@T<2
+R0
+R1
+R11
+R12
+R13
+L0 18
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!s101 -O0
+!i113 1
+R4
+n@n@o@r32_2x1
+vOR32_2x1
+R10
+!i10b 1
+!s100 7_3bfjNSR@U4N2`8`j@BE0
+IU;;oEhBa8NJiYBjcZab5O0
+R0
+R1
+R11
+R12
+R13
+L0 70
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!s101 -O0
+!i113 1
+R4
+n@o@r32_2x1
+vPC_REG
+R34
+!i10b 1
+!s100 Xe76XWlgo<`hJ7Bi`TWZ13
+IJ95NKcHMCja28ek29M@2:2
+R0
+R1
+R35
+R36
+R37
+L0 63
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@p@c_@r@e@g
+vPROC_CS147_SEC05
+R46
+!i10b 1
+!s100 VY9:L2cMX3;DK2FQTog=G3
+I:BOAz=V]FhFlmelK0jH:_0
+R0
+R1
+R24
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/processor.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/processor.v
+R2
+R3
+r1
+!s85 0
+31
+R47
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/processor.v|
+!s101 -O0
+!i113 1
+R4
+n@p@r@o@c_@c@s147_@s@e@c05
+vPROC_SM
+R26
+!i10b 1
+!s100 ];IRJ]aLam;RFbcHFn[I[3
+IVhaL];<5nD>o=BVmUz`VK1
+R0
+R1
+R27
+R28
+R29
+L0 724
+R3
+r1
+!s85 0
+31
+R31
+R32
+R33
+!s101 -O0
+!i113 1
+R4
+n@p@r@o@c_@s@m
+vRC_ADD_SUB_32
+R46
+!i10b 1
+!s100 iEbnD[<ZW1Tgc>1;IoDln0
+I95Vli_48^]3KWccT6JG0P1
+R0
+R1
+Z63 w1605683253
+Z64 8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/rc_add_sub_32.v
+Z65 FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/rc_add_sub_32.v
+R38
+R3
+r1
+!s85 0
+31
+R47
+Z66 !s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/rc_add_sub_32.v|
+Z67 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/rc_add_sub_32.v|
+!s101 -O0
+!i113 1
+R4
+n@r@c_@a@d@d_@s@u@b_32
+vrc_add_sub_32_tb
+R46
+!i10b 1
+!s100 gFO>zLTgG:iQl=Vn7<lJ]2
+ICgOVP;0l`zAf<ziC]S_L]3
+R0
+R1
+w1605675689
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/rc_add_sub_32_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/rc_add_sub_32_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R47
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/rc_add_sub_32_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/rc_add_sub_32_tb.v|
+!s101 -O0
+!i113 1
+R4
+vRC_ADD_SUB_64
+R46
+!i10b 1
+!s100 37mgDI?b5:RcL47n47?iU1
+IGNLFk5coMWZO>z9F?S]0h3
+R0
+R1
+R63
+R64
+R65
+R2
+R3
+r1
+!s85 0
+31
+R47
+R66
+R67
+!s101 -O0
+!i113 1
+R4
+n@r@c_@a@d@d_@s@u@b_64
+vREG1
+R34
+!i10b 1
+!s100 [@F8>=^nkJV<f42eISEaz0
+IQ:1lGcLHzPo2@zP@E;VCD3
+R0
+R1
+R35
+R36
+R37
+L0 152
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@r@e@g1
+vREG32
+R34
+!i10b 1
+!s100 Oo146WzhXN]jnCHf=a=EV1
+I0B1;MmNM8XUTHgWhPRMGC3
+R0
+R1
+R35
+R36
+R37
+L0 45
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@r@e@g32
+vREGISTER_FILE_32x32
+!s110 1606033010
+!i10b 1
+!s100 1j3D@c]2eR<[4ikkoGz1<0
+I?3P_hCP6nf`QfPzCg<Bh21
+R0
+R1
+w1606033006
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/register_file.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/register_file.v
+L0 32
+R3
+r1
+!s85 0
+31
+!s108 1606033010.000000
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/register_file.v|
+!s101 -O0
+!i113 1
+R4
+n@r@e@g@i@s@t@e@r_@f@i@l@e_32x32
+vRF_TB
+R17
+!i10b 1
+!s100 dh5=Ud7=F?h8g[IM3F9Sj1
+IGRK1`dF9;VMTc89j7kVbH3
+R0
+R1
+R24
+8C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/register_file_tb.v
+FC:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/register_file_tb.v
+R2
+R3
+r1
+!s85 0
+31
+R21
+!s107 prj_definition.v|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/register_file_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ianma/Desktop/College/Fa20/CS147/prj_03/register_file_tb.v|
+!s101 -O0
+!i113 1
+R4
+n@r@f_@t@b
+vSHIFT32
+R17
+!i10b 1
+!s100 TW^1WQZaC;PnHLjZ_UVF>3
+Ifg0T:I:O6_iclDQfTnLif2
+R0
+R1
+R18
+R19
+R20
+R25
+R3
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R4
+n@s@h@i@f@t32
+vSHIFT32_L
+R17
+!i10b 1
+!s100 :KJB?U_`kCHf`cWCP]M:[2
+I5bV;Ff0Ud]?GM?oh5h:cg1
+R0
+R1
+R18
+R19
+R20
+L0 244
+R3
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R4
+n@s@h@i@f@t32_@l
+vSHIFT32_R
+R17
+!i10b 1
+!s100 TYD7i1=gj0M:RXm6=iSUM2
+IcoJol[2zFKIdTlK0@BMEW3
+R0
+R1
+R18
+R19
+R20
+L0 51
+R3
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R4
+n@s@h@i@f@t32_@r
+vSP_REG
+R34
+!i10b 1
+!s100 O:TCdCN:nMgKYzhN5LazE1
+I;<XhDW27W4iF_di6cV?040
+R0
+R1
+R35
+R36
+R37
+L0 106
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@s@p_@r@e@g
+vSR_LATCH
+R34
+!i10b 1
+!s100 fC4fE77O;jBo@hMVUAVfa1
+I^[foE4Bdh7e_BXD<?D=7J0
+R0
+R1
+R35
+R36
+R37
+L0 199
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@s@r_@l@a@t@c@h
+vTWOSCOMP32
+R34
+!i10b 1
+!s100 `;Oc<P?V2Nl`LPKFYeoOj2
+IOZCZ_mCXmd@ENBYh[4j7d0
+R0
+R1
+R35
+R36
+R37
+L0 31
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@t@w@o@s@c@o@m@p32
+vTWOSCOMP64
+R34
+!i10b 1
+!s100 >QK_8PD9N`AY`W^BKQjm:1
+IlS>oaP?17hW@C=G7j@ILM1
+R0
+R1
+R35
+R36
+R37
+R62
+R3
+r1
+!s85 0
+31
+R39
+R40
+R41
+!s101 -O0
+!i113 1
+R4
+n@t@w@o@s@c@o@m@p64
